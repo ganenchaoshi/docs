@@ -1,15 +1,27 @@
-.. whalejoy docs documentation master file, created by
-   sphinx-quickstart on Fri May 10 19:40:16 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. 开发相关的文档，陆续添加中.
 
 Welcome to whalejoy docs's documentation!
 =========================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 4
+    :caption: Dev Documents:
+    
+    dev_doc
 
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: MySQL
+
+    sql
+
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :caption: Thinkjs
+
+    thinkjs
 
 
 Indices and tables

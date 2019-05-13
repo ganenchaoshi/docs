@@ -16,6 +16,11 @@ https://www.jianshu.com/p/78e9e1b8553a
 
 配置
 -----------
+参考
+    https://sphinx-rtd-theme.readthedocs.io/en/stable/configuring.html#theme-options
+
+    https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html
+    
 conf.py
     html_theme = 'sphinx_rtd_theme'
 
