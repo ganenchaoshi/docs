@@ -1,6 +1,6 @@
 .. 开发相关的文档，陆续添加中.
 
-Welcome to whalejoy docs's documentation!
+Welcome to whalejoy documentation!
 =========================================
 
 .. toctree::
@@ -21,7 +21,7 @@ Welcome to whalejoy docs's documentation!
     :numbered:
     :caption: Thinkjs
 
-    thinkjs
+    thinkjs/thinkjs-index
 
 
 Indices and tables
